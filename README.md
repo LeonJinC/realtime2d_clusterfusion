@@ -2,13 +2,13 @@
 
 关键技术：ORB-SLAM, Map2DFusion, Multi-task Coordinate Alignment, Global BA
 
-youtube：https://youtube.com/watch?v=xxx
+youtube：https://youtube.com/watch?v=8pDq8f9cTCI
 
 ![算法框架](./fig/framework.jpg)
 
-[![视频预览](./fig/result.jpg)](https://youtube.com/watch?v=xxx)
+[![视频预览](./fig/result.jpg)](https://youtube.com/watch?v=8pDq8f9cTCI)
 
-[![视频预览](./fig/result2.jpg)](https://youtube.com/watch?v=xxx)
+[![视频预览](./fig/result2.jpg)](https://youtube.com/watch?v=8pDq8f9cTCI)
 
 
 
